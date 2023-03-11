@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;}
+.navbar a{
+    color: wheat ;
+    font-weight: 700;
+
+}
+
+.active{
+    background-color:wheat;
+    color:black !important;
+    border-radius: 20px;
+    font-weight: 700;
+}
+.navbar a:hover{
+    font-weight: 700;
+
+    color: wheat;
+}
+.dropdown-item:hover{
+    color:black !important;
+    font-weight: 700;
+}
